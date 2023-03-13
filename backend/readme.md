@@ -12,4 +12,5 @@
 - Migrate all the changes using command `python manage.py migrate`
 - Run the project using command `python manage.py runserver`
 
-- For run test cases using command 'python manage.py test'
+# # Test case
+- For run test cases using command `python manage.py test`
